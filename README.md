@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I am Julius Nyule 👋
+
+- I'm an iOS Engineer. I design and develop interfaces using Swift.
+- I'm currently learning Data Structures & Algorithms.
 
 <!--
 **gtsofa/gtsofa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
